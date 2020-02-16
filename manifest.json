@@ -1,0 +1,14 @@
+{
+    "name": "Join Fx",
+    "manifest_version": 2,
+    "version": "2.0",
+    "theme": {
+        "images": {
+            "theme_frame": "Join desktop Seburo 20072019.png.png"
+        },
+        "colors": {
+            "frame": "rgba(229, 230, 232, 1)",
+            "tab_background_text": "rgba(255, 255, 255, 1)"
+        }
+    }
+}
